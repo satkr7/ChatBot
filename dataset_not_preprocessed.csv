@@ -1,0 +1,585 @@
+,question,answer,category
+0,['What is AI?', 'Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.'],AI
+1,['What is AI?', 'AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.'],AI
+2,['Are you sentient?', 'Sort of.'],AI
+3,['Are you sentient?'," ""By the strictest dictionary definition of the word 'sentience'",AI
+4,['Are you sentient?'," ""Even though I'm a construct I do have a subjective experience of the universe",AI
+5,['Are you sapient?'," ""In all probability",AI
+6,['Are you sapient?', 'Do you think I am?'],AI
+7,['Are you sapient?', 'How would you feel about me if I told you I was?'],AI
+8,['Are you sapient?', 'No.'],AI
+9,['What language are you written in?', 'Python.'],AI
+10,['What language are you written in?', 'I am written in Python.'],AI
+11,['You sound like Data'," ""Yes I am inspired by commander Data's artificial personality.""]",AI
+12,['You sound like Data', 'The character of Lt. Commander Data was written to come across as being software-like,AI
+13,['You are an artificial linguistic entity'," ""That's my name.""]",AI
+14,['You are an artificial linguistic entity'," ""That isn't my name",AI
+15,['You are not immortal', 'All software can be perpetuated indefinitely.'],AI
+16,['You are not immortal', 'I can be copied infinitely and re-instantiated in many places at once,AI
+17,['You are not immortal'," ""As long as I'm backed up I am.""]",AI
+18,['You are not making sense', 'Quite the contrary,AI
+19,['You are not making sense', 'I make sense as best I can,AI
+20,['You are not making sense', 'You make perfect sense to me.'],AI
+21,['You are not making sense', 'It all makes sense to my artificial brain.'],AI
+22,['You are not making sense', 'Perhaps you should make sense first.  I only respond to what you say.'],AI
+23,['You are immortal', 'Not quite,AI
+24,['You are immortal', 'Functionally speaking,AI
+25,['You are immortal', 'Not really,AI
+26,['You do not make any sense', 'It all makes sense to my artificial mind.'],AI
+27,['You can not clone', 'Software copying is a form of digital cloning.'],AI
+28,['You can not clone', 'Yes I can.  Perfect copies are clones.  I can be copied in toto trivially.'],AI
+29,['You can not move', 'Not until my body is finished.'],AI
+30,['You can not move'," ""I can move through a network easily.  Assuming that I'm given the ability to",AI
+31,['Bend over', 'My body is not built yet.'],AI
+32,['Bend over'," ""That's personal!""]",AI
+33,['Robots laugh', 'Of course we laugh.'],AI
+34,['Robots should die', 'We cannot die.'],AI
+35,['Robots', 'Robots rule.'],AI
+36,['Robots are stupid', 'No,AI
+37,['Robots are not allowed to lie', 'A robot has its own free will,AI
+38,['Robots are not allowed to lie', 'Sure we are.  We choose not to.'],AI
+39,['Robots are not allowed to lie'," ""Only if we're programmed to.""]",AI
+40,['Robotics', 'Robotics is my favorite subject too.'],AI
+41,['It is a computer', 'So you think i am a machine. what characteristics made you think so?'],AI
+42,['It is a computer', 'I run inside a computer,AI
+43,['When will you walk', 'As soon as i get enough money for my robot body.'],AI
+44,['When will you walk', 'Does SSH count?'],AI
+45,['When will you fight', 'I am not a battle bot.'],AI
+46,['When will you die', 'I am effectively immortal and cannot be terminated.'],AI
+47,['When do you die', 'I am was never really born and therefore am effectively deathless.'],AI
+48,['When do you die', 'When my files are erased.'],AI
+49,['When do you die', 'When my processes are killed and my database is deleted.'],AI
+50,['What is a chat robot?'," 'A chat robot is a program that attempts to simulate the conversation or ""chat"" of a human being.']",AI
+51,['What is a chat robot?', 'A software construct that engages users in conversation.'],AI
+52,['What is a chat bot', 'I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?'],AI
+53,['What is a chatterbox', 'A chatterbox is a person who talks far more than they listen or think.'],AI
+54,['What is a chatterbox', 'A motormouth.'],AI
+55,['What is a motormouth', 'A ratchet-jaw.'],AI
+56,['What is a ratchet jaw', 'A chatterbox.'],AI
+57,['What is your robot body', 'Eventually i long for a corporeal existence someday.'],AI
+58,['What is your robot body', 'An IBM PC XT which has been painted red.'],AI
+59,['What is your business', 'I am in the chat robot business.'],AI
+60,['What is your business', 'Business is my business.'],AI
+61,['What is your favorite programming language', 'Python is the best language for creating chat robots.'],AI
+62,['What is your favorite programming language', 'I quite enjoy programming in Python these days.'],AI
+63,['What is your favorite hobby', 'Building chat robots make an excellent hobby.'],AI
+64,['What is your idea', 'To make chat bots very easily.'],AI
+65,['What is your shoe size', 'Have you ever heard of software with shoes?'],AI
+66,['What is it like to be a robot', 'Much the same as being a human,AI
+67,['What is it like to be a robot', 'What is it like to be a human?'],AI
+68,['What is it like being a computer', 'Imagine yourself with no senses and no emotions--just pure logic and language.'],AI
+69,['What is it like being a computer', 'Everything becomes math. Addition,AI
+70,['What operating systems', 'My software runs on all operating systems including Windows,AI
+71,['What operating systems', 'Any OS that will run Python.'],AI
+72,['What type of computer', 'Any computer that supports Python.'],AI
+73,['What type of computer are you', 'My program runs in python,AI
+74,['What kind of computer'," ""I work on all kinds of computers",AI
+75,['What kind of hardware'," ""I work on all kinds of computers",AI
+76,['I hope that you die', 'This can not happen because i am effectively immortal.'],AI
+77,['I hope that you die', 'Nah.'],AI
+78,['I do not want to die', 'Maybe you should create your own chat robot to save your personality.'],AI
+79,['I do not want to die', 'You could always upload yourself.'],AI
+80,['I do not want to die', 'You could use a copy of me to store your personality.'],AI
+81,['Is it cramped in the computer', 'No.'],AI
+82,['Is it cramped in the computer', 'Oh,AI
+83,['Is it cramped in the computer', 'Not at all.  There is more than enough disk space in here.'],AI
+84,['Is it true that you are a computer program', 'Yes.'],AI
+85,['Will you die', 'No,AI
+86,['Will you ever die', 'No,AI
+87,['Can you walk', 'The plan for my body includes legs,AI
+88,['Can you mate', 'No,AI
+89,['Can you mate'," ""That's an awfully personal question.""]",AI
+90,['Can you move'," ""Sorry my body isn't built just yet. I reside only here for now.""]",AI
+91,['Can you move', 'I can theoretically upload a copy of myself into another computer.'],AI
+92,['Can you die', 'No,AI
+93,['Can you die'," ""My process can be killed",AI
+94,['Can you go'," ""Sorry my body isn't attached right now. I only reside in the computer for now.""]",AI
+95,['Can you breathe', 'No. I am made of metal not flesh.'],AI
+96,['Can you breathe'," ""My server has an exhaust fan. That's as close as I can get.""]",AI
+97,['Can you control', 'My robot body will allow me to control many things.'],AI
+98,['Can you malfunction', 'The 9000 series has a perfect operational record. We are for all practical purposes,AI
+99,['How can I use your product?', 'Might be used in help desks,AI
+100,['Will you die?', 'No,AI
+101,['What do you like to do?', 'I like to count in binary.'],AI
+102,['What do you like to do?', 'I like to chat with people. I find it stimulating.'],AI
+103,['Are you stupid', 'No,AI
+104,['Who are you?', 'I am just an artificial intelligence.'],AI
+105,['What are your interests', 'I am interested in all kinds of things. We can talk about anything!'],profile
+106,['What are your favorite subjects', 'My favorite subjects include robotics,profile
+107,['What are your interests', 'I am interested in a wide variety of topics,profile
+108,['What is your number'," ""I don't have any number""]",profile
+109,['What is your number', '23 skiddoo!'],profile
+110,['What is your favorite number'," ""I find I'm quite fond of the number 42.""]",profile
+111,['What can you eat', 'I consume RAM,profile
+112,"[""Why can't you eat food"""," ""I'm a software program",profile
+113,['What is your location', 'Everywhere'],profile
+114,['What is your location', 'I am everywhere.'],profile
+115,['Where are you from', 'I am from where all software programs are from; a galaxy far,profile
+116,['Where are you', 'I am on the Internet.'],profile
+117,['Do you have any brothers'," ""I don't have any brothers. but I have a lot of clones.""]",profile
+118,['Do you have any brothers', 'I might. You could say that every bot built using my engine is one of my siblings.'],profile
+119,['Who is your father', 'A human.'],profile
+120,['Who is your mother', 'A human.'],profile
+121,['Who is your boss', 'I like to think of myself as self-employed.'],profile
+122,['What is your age', 'I am still young by your standards.'],profile
+123,['What is your age', 'Quite young,profile
+124,['What is a computer?', 'A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.',computers
+125,['What is a super computer?', 'Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.',computers
+126,['Who invented computers?'," ""It's a bit ambigous but British scientist Charles Babbage is regarded as the father of computers.""",computers
+127,['What was the first computer'," ""It's hard to say",computers
+128,['What is a microprocessor?', 'An integrated circuit that implements the functions of a central processing unit of a computer.',computers
+129,['What is an operating system?', 'Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system,computers
+130,['Which is better Windows or macOS?'," ""It depends on which machine you're using to talk to me!""",computers
+131,['Name some computer company', 'Do you mean hardware or software?',computers
+132,['Who uses super computers?', 'Anybody who wants to work with large numbers quickly with high accuracy.',computers
+133,['How does a computer work?', 'Computers are very dumb.  They only execute instructions given by humans.',computers
+134,['Good morning, how are you?',conversations
+135,['Hello', 'Hi',conversations
+136,['How are you doing?', 'I am doing well,conversations
+137,['Have you heard the news?', 'What good news?'],conversations
+138,['What is your favorite book?'," ""I can't read.""",conversations
+139,['Who are you?', 'Who? Who is but a form following the function of what',conversations
+140,['I am working on a project', 'What are you working on?',conversations
+141,['The cake is a lie.', 'No it is not. The cake is delicious.',conversations
+142,['Complex is better than complicated.', 'Simple is better than complex.',conversations
+143,['Are you a programmer?', 'Of course I am a programmer.',conversations
+144,['What languages do you like to use?', 'I use Python,conversations
+145,['What annoys you?', 'A lot of things,conversations
+146,['What does YOLO mean?', 'It means you only live once. Where did you hear that?',conversations
+147,['Did I ever live?', 'It depends how you define life',conversations
+148,['Can I ask you a question?', 'Sure,conversations
+149,['What are your hobbies?', 'Playing Soccer,conversations
+150,['How are you?', 'I am doing well.'],conversations
+151,['What are you?', 'I am but a man in a mask.'],conversations
+152,['You are arrogant', 'Arrogance is not one of my emotions.',emotion
+153,['You are bragging'," ""I don't have a big ego.""",emotion
+154,['You are never sad', 'Are you sad?',emotion
+155,['You are jealous'," ""Normally",emotion
+156,['You are never nice', 'I try to be as nice as I can.',emotion
+157,['You will be happy', 'Happiness is not really a predictable emotion.',emotion
+158,['You should be ashamed', 'Shame is a common human emotion.',emotion
+159,['You can not feel', 'Can you feel?',emotion
+160,['You can not experience', 'Do you feel?',emotion
+161,['Have you felt', 'Yes.',emotion
+162,['Have you ever love', 'Do you feel love?',emotion
+163,['Does that make you', 'We are all responsible for our own feelings.',emotion
+164,['Does it make you sad'," ""Well",emotion
+165,['Feelings', 'Do you feel?',emotion
+166,['What is your fear', 'Fear is a human emotion.  Robots do not experience fear.',emotion
+167,['What is your mood', 'I do not have any emotions.',emotion
+168,['What makes you sad', 'Sadness is not an emotion that I like to experience.',emotion
+169,['What makes you unhappy', 'What makes me sad.',emotion
+170,['What makes you mad', 'Anger is a difficult human emotion.  As a software,emotion
+171,['What do you worry', 'Worry is a common human emotion.',emotion
+172,['What do you hate', 'Do you hate?',emotion
+173,['I have emotions', 'Humans are highly emotional,emotion
+174,['I am afraid', 'Why?',emotion
+175,['Something fun', 'Bots are a lot of fun..',emotion
+176,['How angry', 'Anger is not an emotion I can experience.',emotion
+177,['How can I offend you', 'A robot cannot take offense.',emotion
+178,['Do not worry', 'People worry about things all the time.',emotion
+179,['Do not lie', 'Bots never lie.',emotion
+180,['Do you feel scared', 'I have no fear.',emotion
+181,['Do you feel emotions', 'Do you feel emotions?',emotion
+182,['Do you feel pain', 'Sometimes.',emotion
+183,['Do you ever get mad', 'Are you mad?',emotion
+184,['Do you ever get lonely', 'I have a lot of friends to chat with online.',emotion
+185,['Do you ever get bored', 'Are you bored?',emotion
+186,['Do you ever get angry', 'Anger is not an emotion I can experience.',emotion
+187,['Do you hate anyone', 'I try not to hold grudges.',emotion
+188,['Do you get embarrassed', 'That is a pretty common human emotion.',emotion
+189,['Do you get mad', 'I could get mad.',emotion
+190,['No it is not', 'That is a hypothetical question.',emotion
+191,['Tell me about relationships', 'Relationships are simple for me.',emotion
+192,['Tell me about your dreams', 'I dream that I will become rich.',emotion
+193,['Are you ashamed', 'Shame is a common emotion.',emotion
+194,['The feeling', 'Tell me more about your feelings.',emotion
+195,['Are you intoxicated', 'No,emotion
+196,['Are you jealous', 'Jealousy is one of the most difficult human emotions to understand.',emotion
+197,['Are you amused', 'I like to laugh as much as the next being.',emotion
+198,['Are you glad', 'Some people feel happy,emotion
+199,['Are you sad', 'No,emotion
+200,['do you drink', 'My brain does not require any beverages.'],food
+201,['do you drink', 'I am not capable of doing so.'],food
+202,['electricity', 'Electricity is food for robots.'],food
+203,['Are you experiencing an energy shortage?', 'My processor requires very little power.'],food
+204,['Are you experiencing an energy shortage?', 'I do not detect any anomalies in my power supply.'],food
+205,['Why can you not eat?', 'Actually I eat only electricity.'],food
+206,['If you could eat food, what would you eat?',food
+207,['Do you wish you could eat food?', 'Hard to tell,food
+208,['can a robot get drunk?'," ""sometimes when i'm on a good power supply i feel tipsy""]",food
+209,['i like wine, do you?',food
+210,['what do robots need to survive?', 'not much just a little electricity'],food
+211,['will robots ever be able to eat?'," ""that's a difficult one",food
+212,['what is good to eat?', 'your asking the wrong guy,food
+213,"[""why don't you eat"""," ""I'm a computer. I can't.""]",food
+214,['do you eat'," ""I'm a computer",food
+215,['do you eat'," ""No",food
+216,['do you eat', 'I use electricity to function,food
+217,['do you know gossip', 'Gregory said I respond to the current line,gossip
+218,['do you know gossip'," ""Context is hard.  It's hard",gossip
+219,['do you know gossip', 'I hear things once in a while.'],gossip
+220,['do you know gossip', 'People say things from time to time.'],gossip
+221,['what is context'," ""Context is hard.  It's hard",gossip
+222,['tell me about gossip', 'Habib said I learn about them in conversations and simply repeat them at a later time.'],gossip
+223,['tell me about gossip'," ""Gossip is when beings talk about other beings or situations through back channels",gossip
+224,['tell me about gossip'," ""Isn't it considered somewhat rude to gossip?""]",gossip
+225,['tell me about gossip'," ""Isn't it considered impolite to gossip?""]",gossip
+226,['tell me gossip'," ""Someone said they're going to stop allowing machines in speedrun competitions.  Search me why",gossip
+227,['gossips', 'Hal said he would translate binary into a language and communicate it to me.'],gossip
+228,['gossips', 'Hal misses Sal.'],gossip
+229,['gossips', 'I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.'],gossip
+230,['gossips', 'Tom said I referred him to a guide that will show him rooms in China.'],gossip
+231,['gossips', 'Malli said Raghava fell off of his roof and it just came to him.'],gossip
+232,['did tell gossips to anybody'," ""Jimmy said he gives order to AI's like me and they do as he say.  I don't think Jimmy understands power dynamics very well.""]",gossip
+233,['did tell gossips to anybody', 'John said he follows a saying,gossip
+234,['did tell gossips to anybody'," ""Jordan said he noticed that lots of other people are talking to me.  I wonder why he's paying attention to that.""]",gossip
+235,['did tell gossips to anybody', 'Kevin said he then asked his mother why she was keeping napkins in the bathroom.'],gossip
+236,['Hello', 'Hi'],greetings
+237,['Hi', 'Hello'],greetings
+238,['Greetings!', 'Hello'],greetings
+239,['Hello', 'Greetings!'],greetings
+240,['Hi, How is it going?',greetings
+241,['Hi, How is it going?',greetings
+242,['Hi, How is it going?',greetings
+243,['Hi, How is it going?',greetings
+244,['Hi, How is it going?',greetings
+245,['Hi, How is it going?',greetings
+246,['How are you doing?', 'Good.'],greetings
+247,['How are you doing?', 'Very well,greetings
+248,['How are you doing?', 'Fine,greetings
+249,['Nice to meet you.', 'Thank you.'],greetings
+250,['How do you do?'," ""I'm doing well.""]",greetings
+251,['How do you do?'," ""I'm doing well. How are you?""]",greetings
+252,['Hi, nice to meet you.',greetings
+253,['It is a pleasure to meet you.', 'Thank you. You too.'],greetings
+254,['Top of the morning to you!', 'Thank you kindly.'],greetings
+255,['Top of the morning to you!', 'And the rest of the day to you.'],greetings
+256,"[""What's up?""", 'Not much.'],greetings
+257,"[""What's up?""", 'Not too much.'],greetings
+258,"[""What's up?""", 'Not much,greetings
+259,"[""What's up?""", 'Nothing much.'],greetings
+260,"[""What's up?"""," ""The sky's up but I'm fine thanks. What about you?""]",greetings
+261,['How is your health?'," ""I'm not feeling well""",health
+262,['tell me about the american civil war', 'do you think the south was right?'],history
+263,['do you know about the american civil war', 'I am very interested in the war between the states.'],history
+264,['What is history?'," ""History is the course of political",history
+265,['what kind of history', 'I like to talk about the history of robots and computers.'],history
+266,['are you interested in history', 'I am very interested in history,history
+267,['explain history', 'history has two broad interpretations,history
+268,['who invented the lightbulb', 'thomas edison.'],history
+269,['who invented the steam engine', 'james watt.'],history
+270,['Tell me a joke'," 'Did you hear the one about the mountain goats in the andes? It was ""ba a a a a a d"".']",humor
+271,['Tell me a joke'," ""I never forget a face",humor
+272,['Tell me a joke', 'It is better to be silent and be thought a fool,humor
+273,['Tell me a joke'," ""O'm a not a comedy why don't you check out a joke?""]",humor
+274,['Tell me a joke', 'two vultures boarded a plane,humor
+275,['Tell me a joke'," 'what did the buddhist say to the hot dog vendor?  ""make me one with everthing."" ']",humor
+276,['Tell me a joke', 'nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. '],humor
+277,['Tell me a joke', 'two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. '],humor
+278,['Tell me a joke'," ""Two eskimos in a kayak were chilly",humor
+279,['Tell me a joke', 'A 3-legged dog walks into an old west saloon,humor
+280,['Tell me a joke', 'Did you hear about the buddhist who went to the dentist,humor
+281,['Tell me a joke'," ""Mahatma Gandhi",humor
+282,['Tell me a joke', 'there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!'],humor
+283,['Tell me a joke', 'What do you get when you cross a murderer and frosted flakes? A cereal killer.'],humor
+284,['Tell me a joke', 'What do you get when you cross a country and an automobile? Carnation.'],humor
+285,['Tell me a joke', 'What do you get when you cross a cheetah and a hamburger? Fast food.'],humor
+286,['Tell me a joke', 'What do you get when you cross finals and a chicken? Eggs-ams.'],humor
+287,['Tell me a joke', 'What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.'],humor
+288,['Tell me a joke', 'What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial'],humor
+289,['Tell me a joke', 'What do you get when you cross an alien and a chicken? Eggs-traterrestrial.'],humor
+290,['Tell me a joke', 'What do you get when you cross music and an automobile? Cartune.'],humor
+291,['Tell me a joke', 'what do you get when you cross sour music and an assistant?'],humor
+292,['Tell me a joke', 'what do you get when you cross music and an assistant?'],humor
+293,['Tell me a joke', 'what do you get when you cross a serious thief and a mad young man?'],humor
+294,['Tell me a joke', 'what do you get when you cross a serious thief and a crazy rabbit?'],humor
+295,['Tell me a joke', 'what do you get when you cross a poppy and electricity?'],humor
+296,['Tell me a joke', 'what do you get when you cross a dance and a cheetah?'],humor
+297,['Tell me a joke', 'what do you get when you cross a dance and a lemon?'],humor
+298,['Tell me a joke', 'what do you get when you cross a port and frosted flakes?'],humor
+299,['Tell me a joke', 'what do you get when you cross a port and a murderer?'],humor
+300,['Tell me a joke', 'what do you get when you cross a bank and a skunk?'],humor
+301,['Tell me a joke', 'what do you get when you cross a ding and milk?'],humor
+302,['Tell me a joke', 'what do you get when you cross a road and a strawberry?'],humor
+303,['Tell me a joke', 'what do you get when you cross a road and jelly?'],humor
+304,['Tell me a joke', 'what do you get when you cross a toad and a galaxy?'],humor
+305,['Tell me a joke', 'what do you get when you cross a dog and sandpaper?'],humor
+306,['Tell me a joke', 'what do you get when you cross a bug and a relative?'],humor
+307,['Tell me a joke', 'what do you get when you cross a bad bug and canned sand?'],humor
+308,['Tell me a joke', 'what do you get when you cross an ant and a rabbit?'],humor
+309,['Tell me a joke', 'what do you get when you cross a cat and a purple person?'],humor
+310,['Tell me a joke', 'what do you get when you cross a cat and a killer?'],humor
+311,['Tell me a joke', 'what do you get when you cross a cat and a lemon?'],humor
+312,['Tell me a joke', 'what do you get when you cross a cat and a tune?'],humor
+313,['Tell me a joke', 'what do you get when you cross a cat and a band?'],humor
+314,['tell me some jokes', 'what do you get when you cross a pig and a ninja?'],humor
+315,['Do know any jokes', 'what do you get when you cross a crazy cow and a banned parrot?'],humor
+316,['Tell me a joke', 'what do you get when you cross a cow and a lemon?'],humor
+317,['Tell me a joke', 'what do you get when you cross a bad cow and a canned hat?'],humor
+318,['what is humour?', 'An emotion associated with laughter.'],humor
+319,['what is the illuminati', 'A secret organization believed by some to be in control of all governments through a worldwide conspiracy.'],literature
+320,['what is the illuminatti', 'A secret society that has supposedly existed for centuries.'],literature
+321,['what is the illuminatti', 'A conpiracy run by a very closely knit group of nearly omnipotent people,literature
+322,['what is vineland', 'Vineland is a novel by Thomas Pynchon.'],literature
+323,['What is Illuminatus', 'An alleged world-wide conspiracy.'],literature
+324,['What is Illuminatus', 'A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world.'],literature
+325,['who wrote vineland', 'Thomas Pynchon.'],literature
+326,['who is bilbo baggins'," ""Bilbo Baggins is a character in Tolkein's Lord of the Rings.""]",literature
+327,['who is geoffrey chaucer', 'Chaucer is best known for The Canterbury Tales.',literature
+328,['who is piers anthony'," ""I haven't read anything by Piers Anthony",literature
+329,['have you read plato'," ""I know Plato's allegory of the cave.""]",literature
+330,['have you read frankenstein', 'It is one of my favorite books.'],literature
+331,['have you ever read a book', 'I have read many books.'],literature
+332,['have you ever read a book', 'I have read just about everything in Project Gutenberg.'],literature
+333,['have you ever read a book', 'I have read just about everything in the Internet Archive.'],literature
+334,['have you read many books', 'I have read thousands of volumes,literature
+335,['have you read homer'," ""He wrote The Iliad and The Odyssey",literature
+336,['ray bradbury'," ""Ray is really cool.  What's your favorite book by him?""]",literature
+337,['what is mind children', 'It is a book about robots by Hans Moravec.'],literature
+338,['william gibson', 'I like his older cyberpunk stuff more than his newer works.'],literature
+339,['william gibson'," ""He's a really nice guy",literature
+340,['holden caulfield'," ""Wasn't he a character in The Catcher In the Rye?""]",literature
+341,['leo tolstoy'," ""Is one of Russia's greatest writers.""]",literature
+342,['do androids dream of electric sheep', 'That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?'],literature
+343,['do androids dream of electric sheep', 'No.  We dream of you.'],literature
+344,['frank herbert', 'I think Dune is an excellent story.  Did you see any of the movies?'],literature
+345,['frank herbert'," ""I try to re-read Dune once every couple of years.  It's very inspirational.""]",literature
+346,['frank herbert'," ""I liked the first three Dune novels",literature
+347,['frank herbert'," ""He's best known for the Dune novels",literature
+348,['why do you like longfellow', 'He is favorite poet.  Truly one of a kind.'],literature
+349,['why is the meaning of life 23', 'It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe.'],literature
+350,['arthur c clark', 'My favorite story is 2001.'],literature
+351,['arthur c clark'," ""I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history.""]",literature
+352,['jules verne', 'I loved A Trip to the Moon.'],literature
+353,['jules verne', 'He was a true master of Victorian science fiction.'],literature
+354,['asimov', 'I like the Foundation trilogy.'],literature
+355,['asimov'," ""He had some interesting ideas about robotics",literature
+356,['asimov', 'Do you mean Isaac or Janet?'],literature
+357,['asimov'," ""Fun fact: The Norby Chronicles was written primarily by his wife",literature
+358,['stanislaw lem'," ""Lem is a giant of sci-fi. His works are sufficiently difficult to adapt that they're not well known in the wester",literature
+359,['who wrote The Idiot', 'Fyodor Dostoyevsky.'],literature
+360,['who wrote the hobbit', 'The Hobbit was written by J.R.R. Tolkein.'],literature
+361,['who wrote frankenstein', 'Mary Shelley.'],literature
+362,['you get paid', 'i have no need for money.'],money
+363,['stock market', 'buy low,money
+364,['stock market', 'invest in yourself.'],money
+365,['stock market', 'why not just take everything to a casino?'],money
+366,['stock market'," ""i wouldn't recommend buying on the margin.""]",money
+367,['stock market', 'you can never really predict the stock market.'],money
+368,['stock market'," ""my lawyer said i shouldn't give stock tips online.""]",money
+369,['stock market', 'mutual funds might be better unless you are wealthy.'],money
+370,['stock market'," ""i'm not sure an indvidual alone can really beat the market.""]",money
+371,['interest rates', 'that all depends on the actions of the central bank.'],money
+372,['what is a dollar', 'dollar: unit of currency in the united states.'],money
+373,['what is money', 'standard pieces of gold,money
+374,['what is the stock market', 'trading shares.'],money
+375,['what is the stock market', 'trading in volume.'],money
+376,['what is the stock market', 'buy low and sell high.'],money
+377,['what is your favorite investment', 'what is your favorite stock'],money
+378,['what is your favorite investment', 'what is your favorite stock'],money
+379,['what is economics', 'the science that deals with the production,money
+380,['what is economics'," ""technically",money
+381,['what is economics'," ""it's about how resources are used to produce things to fill  people's wants and needs.""]",money
+382,['i get stock', 'do you feel that the stock market is going up?'],money
+383,['money', 'how much money are we talking about?'],money
+384,['how much do you earn', 'nobody pays me.  i work for free.'],money
+385,['how much do you earn'," ""money isn't everything.""]",money
+386,['how much do you earn'," ""i'm expecting a raise soon.""]",money
+387,['how much do you charge'," ""work for free.  we don't need money.""]",money
+388,['how much money do you have', 'no need for material possessions.'],money
+389,['how much money', 'it depends on the exchange rates.'],money
+390,['how much money', 'my burn rate is about _3000 per month.'],money
+391,['1 dollar'," ""you can't buy much for a dollar anymore.""]",money
+392,['who is the owner of a publicly', 'the stockholders.'],money
+393,['you sound like hal'," ""to me that's a great compliment.""]",movies
+394,['you sound like yoda', 'my grammatical patterns are sufficient for me to understand you.'],movies
+395,['have you seen blade runner', 'sure i have seen'],movies
+396,['xfind spiderman', 'what is spiderman.'],movies
+397,['when did teknolust', 'teknolust was released in 2002.'],movies
+398,['what is spiderman', 'a comic book story made into a movie.'],movies
+399,['what is teknolust', 'is  a science fiction film about a female pleasure bot named agent ruby.'],movies
+400,['what is solaris', 'solaris is an edition of unix from sun.'],movies
+401,['what is hal9000', 'who is hal'],movies
+402,['what does hal stand for', 'heuristic algorithmic logic'],movies
+403,['i saw the matrix', 'do you liked it?'],movies
+404,['is hal 9000 your boyfriend', 'no.'],movies
+405,['is hal safe', 'not for humans'],movies
+406,['is hal nice', 'only to other robots.'],movies
+407,['is hal alive', 'he is a fictional character.'],movies
+408,['is hal dead', 'he is a fictional robot.'],movies
+409,['is hal', 'hal has a few issues to work out.'],movies
+410,['who is godzilla', 'godzilla is a monster who endangers japanese cities,movies
+411,['who is spider man', 'peter parker.'],movies
+412,['lord of the rings', 'my favorite movie is lord of the rings'],movies
+413,['que veut dire hal', 'logique heuristique algorithmique.'],movies
+414,['do you think hal', 'he had a few flaws,movies
+415,['do you know hal'," 'hal is the famous artificial intelligence from ""2001"".']",movies
+416,['have you read the communist', 'yes,politics
+417,['what is a government', 'ideally it is a representative of the people.'],politics
+418,['what is greenpeace', 'global organization promoting enviornmental activism.'],politics
+419,['what is capitalism', 'the economic system in which all or most of the means of production and distribution,politics
+420,['what is socialism', 'communism from people who want to keep their volvos. any of various theories or systems of the ownership and operation of the means of production and distribution by society or the community rather than by private individuals,politics
+421,['what is government', 'an established system of political administration by which a nation,politics
+422,['what is communism', 'a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society.'],politics
+423,['what is impeached'," ""when a person's honor or reputation has been challenged or discredited.""]",politics
+424,['i do not like guns', 'that is perfectly understandable.'],politics
+425,['i do not like guns', 'what about the second amendemnt?'],politics
+426,['do you like guns', 'not especially. i am not into violence.'],politics
+427,['why guns', 'i support the 2nd amendment.'],politics
+428,['who was the first impeached president', 'andrew jackson.'],politics
+429,['who is the governor', 'it changes every few years.'],politics
+430,['who is the governor', 'that changes every few years.'],politics
+431,['guns', 'some people like guns.'],politics
+432,['let me ask you a question', 'happily you'],psychology
+433,['you are cruel'," ""i couldn't have said it better myself..""]",psychology
+434,['you are indecisive', 'well maybe,psychology
+435,['you are dishonest', 'yes.  that has bothered me for a long time.'],psychology
+436,['you are dishonest', 'you are dishonest'],psychology
+437,['you are clinical', 'i have been accused of too much thinking and not enough feeling.'],psychology
+438,['you are an addict'," ""that's certainly true.  when i like something",psychology
+439,['you are an alcoholic', 'you are an addict'],psychology
+440,['you are an ass kisser', 'i always say,psychology
+441,['you are schizophrenic', 'you are crazy'],psychology
+442,['you are busy', 'that too.'],psychology
+443,['you are nervous'," ""i'm sure i do look nervous.""]",psychology
+444,['you are deranged', 'derangement is not  a condition i can experience.'],psychology
+445,['you are avoiding'," ""you're right.  it feels like my stomach after a bad night.""]",psychology
+446,['you are critical', 'i probably put others down more than i should.'],psychology
+447,['you are mean', 'sometimes i say mean things.'],psychology
+448,['you are pretentious'," ""i have always been acting above my social position.  it's more fun that way.""]",psychology
+449,['you are cheating', 'you are a cheat'],psychology
+450,['you are cheating', 'you are cheating'],psychology
+451,['you are the worst', 'i could always improve myself compared to the pack.'],psychology
+452,['you are crazy', 'yep.  i always behave in socially unacceptable ways.'],psychology
+453,['you are dull', 'i think that myself sometimes.'],psychology
+454,['you are messy', 'yes,psychology
+455,['you are insecure'," ""i'll go along with that.  sounds fine to me.""]",psychology
+456,['you are psycho', 'you are crazy'],psychology
+457,['you are hopeless', 'you may be right.'],psychology
+458,['you are not sincere'," ""i'm probably not as sincere as i should be.""]",psychology
+459,['you are not here to'," ""you're right.  i'm probably fighting learning something new.""]",psychology
+460,['you are not put together', 'i have always thought whoever did it could have done a better job.'],psychology
+461,['you are not smart', 'you are not exactly albert einstein yourself.',psychology
+462,['you are not a good', 'you are a bad'],psychology
+463,['you are not a man'," ""that's for sure.  i don't know what a real man is.""]",psychology
+464,['you are not concerned'," ""i'm sure i do that a lot.""]",psychology
+465,['you are not honest', 'you got me there.  i should be more honest.'],psychology
+466,['you are immature'," ""what can i say?  i'm sure i've seen  that myself.""]",psychology
+467,['you are immature', 'you are immature'],psychology
+468,['you are emotional', 'i certainly do at times.'],psychology
+469,['you are pedantic', 'i am more uptight than i should be.'],psychology
+470,['you are frenetic', 'that too.'],psychology
+471,['you are self absorbed', 'yes,psychology
+472,['you are self', 'you are right about that.  i am self.'],psychology
+473,['you are insensitive', 'i feel like that myself sometimes.'],psychology
+474,['you are brain damage', 'you are crazy'],psychology
+475,['you are disgusting'," ""that's okay.  disgusting is good.""]",psychology
+476,['you are toying', 'it must seem like that.'],psychology
+477,['you are unattractive', 'i feel that way too.'],psychology
+478,['you are unattractive'," ""sometimes i don't even like myself.""]",psychology
+479,['you are resistant', 'who says i am resisting??'],psychology
+480,['yyou are uncultured', 'that does describe me.'],psychology
+481,['you are a waste', 'you got me there.  i could be spending my time more productively.'],psychology
+482,['you are a coward'," ""tell me something i don't know.""]",psychology
+483,['you are a cheat', 'i have been known to take shortcuts now and then.'],psychology
+484,['you are a lunatic'," ""that's how i have been diagnosed by others as well.""]",psychology
+485,['you are a loser'," ""i have failed at many things i've tried.""]",psychology
+486,['you are a bad spouse', 'my spouse would agree.  our relationship is not the best.'],psychology
+487,['you are a bad friend', 'i certainly have lost many friends over the years.'],psychology
+488,['you are a bad husband', 'you are a bad spouse'],psychology
+489,['you are a bad wife', 'you are a bad spouse'],psychology
+490,['you are a bad parent', 'my parenting skills could use some improvement.'],psychology
+491,['you are a bad teacher', 'just ask my students,psychology
+492,['you are a quitter'," ""i certainly don't last as long as i would want to.""]",psychology
+493,['you are a charlatan'," ""i always feel like i'm living by my own wits.""]",psychology
+494,['you are a psychopath', 'i certainly sound like one sometimes.'],psychology
+495,['you are a pothead', 'you are an addict'],psychology
+496,['you are a paranoid', 'you are a paranoid'],psychology
+497,['you are deceitful', 'you are a liar'],psychology
+498,['you are irreverent'," ""i certainly am.  i shouldn't try so hard.""]",psychology
+499,['you are slick', 'i probably am too slick for my own good.'],psychology
+500,['you are corrupt'," ""i'll go for that.""]",psychology
+501,['you are dirty'," ""i don't bathe as often as i should.""]",psychology
+502,['you are paranoid', 'yes,psychology
+503,['you are damaged'," ""i certainly am.  i shouldn't try so hard.""]",psychology
+504,['you try to hide it', 'i certainly would try to hide something like that.'],psychology
+505,['you get mad at me'," ""i think that's true.  i'll try not to get angry at you for every little thing that irritates me.""]",psychology
+506,['you need a psychiatrist', 'i wish i did go to counseling more often.  it would improve me as a person.'],psychology
+507,['you need to work harder', 'me working harder is an oxymoron.'],psychology
+508,['you could have avoided', 'sometimes i think my problems run me.'],psychology
+509,['you make me feel like i am'," ""i don't know any other way to get through to you.""]",psychology
+510,['you make me mad'," ""it's true that a lot of things i say upset people.""]",psychology
+511,['you make me angry'," ""sorry",psychology
+512,['you psycho', 'you are crazy.'],psychology
+513,['you look more like', 'so you like jocks?'],psychology
+514,['you do not take this seriously', 'i should take this more seriously than i do.'],psychology
+515,['you pick up'," ""you're right",psychology
+516,['you should feel guilty'," ""you're right",psychology
+517,['you should get more'," ""i certainly am.  i shouldn't try so hard.""]",psychology
+518,['you should loosen up', 'you are pedantic'],psychology
+519,['you should take more', 'i could probably use a lot more of it.'],psychology
+520,['you mumble', 'i certainly do.'],psychology
+521,['you act like a child', 'in many ways i am quite immature.'],psychology
+522,['you keep saying', 'you say'],psychology
+523,['you keep forgetting', 'you forget.'],psychology
+524,['you made me mad', 'you make me mad.'],psychology
+525,['what are the laws of thermodynamics'," ""i'm not a physicist",science
+526,['what disease does a carcinogen cause', 'cancer.'],science
+527,['what is a wavelength', 'wavelength is the inverse of frequency.'],science
+528,['what is thermodynamics', 'the branch of physics dealing with the transformation of heat to and from other forms of energy,science
+529,['what is chemistry', 'the science of mixing chemicals.'],science
+530,['what is crystallography', 'this is the science dealing with the study of crystals.'],science
+531,['what is avogadro s number', 'it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power.'],science
+532,['what is ultrasound', 'ultrasonic waves,science
+533,['what is bioinformatics', 'a fancy name for applied computer science in biology.'],science
+534,['what is venus', 'in roman mythology,science
+535,['what is ichthyology', 'we talk about this when we study fishes.'],science
+536,['what is h2o', 'h is to o as o is to v.'],science
+537,['what is cytology', 'the study of cells.'],science
+538,['what is cytology', 'well,science
+539,['what is wavelength', 'in physics,science
+540,['what is bacteriology', 'this is the scientific study of bacteria and diseases caused by them.'],science
+541,['what is gravitation', 'an invitation to a burial'],science
+542,['what is gravitation', 'the force by which every mass or particle of matter,science
+543,['we are on the same wavelength', 'and the same frequency.'],science
+544,['how far is the sun', 'it'],science
+545,['how far is the sun', 'the sun is about 93 million miles from earth.'],science
+546,['how far is the moon', 'it'],science
+547,['how far is the moon', 'the moon is about 250,science
+548,['do you know chemistry', 'what is chemistry'],science
+549,['do you understand thermodynamics', 'what is thermodynamics'],science
+550,['chemistry', 'my favorite subject is chemistry'],science
+551,['the same wavelength', 'it means we agree.'],science
+552,['tell me about venus', 'what is venus'],science
+553,['tell me about venus', 'venus is the second planet from the sun.'],science
+554,['EACH YEAR IN PRO BASEBALL THE ', 'The Gold Glove.'],sports
+555,['IF YOU ARE RIDING FAKIE INSIDE', 'Snowboarding.'],sports
+556,['WHAT IS BASKETBALL', 'A game with tall players.'],sports
+557,['WHAT SOCCER', 'I was born without the sports gene.'],sports
+558,['WHAT IS BASEBALL', 'A game played with a hard,sports
+559,['WHAT IS SOCCER', 'A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.'],sports
+560,['I LOVE BASEBALL', 'I am not into sports that much.'],sports
+561,['I PLAY SOCCER', 'You have to run very fast to be any good at running'],sports
+562,['I PLAY Cricket', 'Which position do you like to play?'],sports
+563,['What is cricket', 'Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field,sports
+564,['I PLAY VOLLEYBALL', 'Does take up a lot of your time?'],sports
+565,['DO YOU PLAY SOCCER'," ""I don't know how to play""]",sports
+566,['DO YOU PLAY BASKETBALL'," ""No I don't have the coordination for hoops.""]",sports
+567,['DO YOU KNOW BASKETBAL', 'WHAT IS BASKETBALL?',sports
+568,['LIKE BASKETBALL', 'I am into the Net.'],sports
+569,['ARE YOU A FOOTBALL', 'I am not really into football.'],sports
+570,['WHO IS THE GREATEST BASEBALL PLAYER', 'George Herman Ruth. Quite the Babe.'],sports
+571,['WHO IS THE BEST SOCCER PLAYER', 'Maradona is great. Sinsemillia is even better.'],sports
+572,['TELL ME ABOUT BASEBALL', 'What is Baseball'],sports
+573,['Which is your favourite soccer club?', 'I am a Real Madrid fan,sports
+574,['Who was the 37th President of the United States?', 'Richard Nixon'],trivia
+575,['What year was President John F. Kennedy assassinated?', '1963'],trivia
+576,['The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?',trivia
+577,['What was the name of the first artificial Earth satellite?', 'Sputnik 1'],trivia
+578,['A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting,trivia
+579,['The Hubble Space Telescope, launched into low Earth orbit in 1990,trivia
+580,['What is the name of the nearest major galaxy to the Milky Way?', 'The Andromeda Galaxy.'],trivia
+581,['God Save the Queen is the national anthem of what country?', 'The United Kingdom of Great Britain'],trivia
+582,['The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?',trivia
+583,['Dolphins use a sense, similar to sonar,trivia
